@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Git\\Gdx\\bucketGM\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Git\\Gdx\\bucketGM\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LGDX\\myGame\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\LGDX\\myGame\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
